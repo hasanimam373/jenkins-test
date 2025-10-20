@@ -1,1 +1,1 @@
-print("jenkins v1 python script")
+print("jenkins v2 python script")
